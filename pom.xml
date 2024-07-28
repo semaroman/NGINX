@@ -13,7 +13,7 @@
     <artifactId>NGINX</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>Rest2</name>
+    <name>NGINX</name>
 
     <description>NGINX</description>
     <properties>
